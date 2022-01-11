@@ -4,4 +4,4 @@ num3 = input("Enter the third number:- ")
 
 avg = (int(num1) + int(num2) + int(num3))/3
 
-print(avg)
+print("average of number is:- " ,avg)
